@@ -1,0 +1,11 @@
+.banner__text {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  flex-basis: 30%;
+}
+
+.banner__text p {
+  line-height: 1.5rem;
+  font-size: 18px;
+}
